@@ -1,0 +1,2 @@
+Took 1 hour to do the demo training on 
+1 x L4 16 vCPU 62 GB RAM
