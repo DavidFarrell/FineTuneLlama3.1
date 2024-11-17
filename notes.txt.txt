@@ -1,2 +1,6 @@
-Took 1 hour to do the demo training on 
+Took 1 hour to do the demo training on runpod on one of these
 1 x L4 16 vCPU 62 GB RAM
+
+On the 4090 locally it didn't work - couldn't get it to use the GPU properly.
+
+Tried unsloth and it works really well locally.
