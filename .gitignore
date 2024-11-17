@@ -1,2 +1,4 @@
 .env
 
+alpaca_lora_model/
+alpaca_new_lora_model/
